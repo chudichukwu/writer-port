@@ -11,7 +11,7 @@ Open http://localhost:4173. Edit `dist/index.html`, `dist/style.css`, and `dist/
 ## Personalize before applying
 
 - Replace both “Your Name” wordmarks, the page title, and the description.
-- The content sample is now the expanded X article at `dist/articles/risk-first-capital-second.html`. The editorial sample is `dist/articles/ethereum-block-by-block.html`, expanded from the July 17, 2025 X post. Replace the one remaining copywriting placeholder with actual work. Update the article titles, categories, descriptions, and modal content in `script.js`. Add real published links or permitted PDF files. Label self-initiated/spec work honestly.
+- Three expanded X articles are published in `dist/articles/`: reinsurance, Ethereum proof verification, and stablecoin confidentiality. All three include original-post links and primary sources. The confidentiality article is an editorial perspective, not a copywriting sample.
 - Replace the about introduction, specialties, location/time zone, and opportunity preferences.
 - Replace the contact placeholder with an actual `<a href="mailto:YOUR_EMAIL">YOUR_EMAIL ↗</a>`. There is deliberately no pretend submission form or fake email link.
 - Remove placeholder labels, the work note, and instructional copy after filling the content.
@@ -20,4 +20,4 @@ Open http://localhost:4173. Edit `dist/index.html`, `dist/style.css`, and `dist/
 
 ## Interaction and accessibility
 
-Category filters use native buttons and pressed states with a live result count. Sample details use a native modal dialog with Escape dismissal, focus containment, and focus return. Includes skip navigation, visible focus, reduced-motion support, responsive layouts, and semantic headings. All sample art is decorative typography, not a claim of published work.
+Category filters use native buttons and pressed states with a live result count. Includes skip navigation, visible focus, reduced-motion support, responsive layouts, and semantic headings. All sample art is decorative typography, not a claim of published work.
