@@ -10,9 +10,9 @@ Open http://localhost:4173. Edit `dist/index.html`, `dist/style.css`, and `dist/
 
 ## Personalize before applying
 
-- Display name: Chudi. Homepage branding, title, description, and home-link accessibility label use this name.
+- Display name: grand blue. Homepage branding, title, description, and home-link accessibility label use this name.
 - Four articles are published in `dist/articles/`: reinsurance, Ethereum proof verification, stablecoin confidentiality, and Solana Alpenglow. The first three include original X links; Alpenglow was edited from a supplied Markdown draft with paragraph structure preserved. All four cite primary sources. The confidentiality article is an editorial perspective, not a copywriting sample.
-- Replace the about introduction, specialties, location/time zone, and opportunity preferences.
+- Replace the about introduction, specialties, opportunity preferences. Location is set to Abuja, Nigeria.
 - Replace the contact placeholder with an actual `<a href="mailto:YOUR_EMAIL">YOUR_EMAIL ↗</a>`. There is deliberately no pretend submission form or fake email link.
 - Remove placeholder labels, the work note, and instructional copy after filling the content.
 - Keep or remove the `noindex,nofollow` robots directive according to your indexing preference. It does not provide access control.
