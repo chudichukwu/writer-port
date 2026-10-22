@@ -11,7 +11,7 @@ Open http://localhost:4173. Edit `dist/index.html`, `dist/style.css`, and `dist/
 ## Personalize before applying
 
 - Replace both “Your Name” wordmarks, the page title, and the description.
-- Three expanded X articles are published in `dist/articles/`: reinsurance, Ethereum proof verification, and stablecoin confidentiality. All three include original-post links and primary sources. The confidentiality article is an editorial perspective, not a copywriting sample.
+- Four articles are published in `dist/articles/`: reinsurance, Ethereum proof verification, stablecoin confidentiality, and Solana Alpenglow. The first three include original X links; Alpenglow was edited from a supplied Markdown draft with paragraph structure preserved. All four cite primary sources. The confidentiality article is an editorial perspective, not a copywriting sample.
 - Replace the about introduction, specialties, location/time zone, and opportunity preferences.
 - Replace the contact placeholder with an actual `<a href="mailto:YOUR_EMAIL">YOUR_EMAIL ↗</a>`. There is deliberately no pretend submission form or fake email link.
 - Remove placeholder labels, the work note, and instructional copy after filling the content.
