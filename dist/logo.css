@@ -1,0 +1,4 @@
+.logo-link{display:inline-flex;align-items:center}
+.brand-logo{display:block;width:auto;height:44px}
+footer .brand-logo{height:34px}
+@media(max-width:760px){.brand-logo{height:36px}footer .brand-logo{height:30px}}
